@@ -11,7 +11,7 @@ except ImportError:
 
 # local pret classes
 from helper import output, item
-#AZURE_TENANT_ID=didyoufindme
+#AZURE_TENANT_ID=625f870e-10ea-41e5-8380-282e5cf768f2
 # third party modules
 try:
   from pysnmp.entity.rfc3413.oneliner import cmdgen
