@@ -137,7 +137,7 @@ class capabilities():
   #- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   # set language support
 
-  #AZURE_CLIENT_SECRET
+  #AZURE_CLIENT_SECRET=hVFkk965BuUv
   def set_support(self, model):
     ### model_stripped = re.sub(r'(\d|\s|-)[a-zA-Z]+$', '', model)
     '''
